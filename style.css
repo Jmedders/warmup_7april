@@ -1,0 +1,52 @@
+div {
+  height: 40px;
+  width: 40px;
+  background: green;
+  padding: 4px;
+  display: block;
+}
+.words {
+  height: 40px;
+  width: 100%;
+  border: 2px solid black;
+  background: #238E68;
+  padding: 4px;
+}
+.weird{
+  height: 80px;
+  width: 50%;
+  border-radius: 10px;
+  background: #003300;
+  padding: 40px;
+  margin-left: 200px;
+}
+.stylin {
+  height: 150px;
+  box-shadow: 4px 4px 8px 10px rgba(0, 0, 0, 0.5);
+  width: 100px;
+  background: #5DFC0A;
+  border: 3px solid yellow;
+}
+.rude {
+  box-shadow: 4px 4px 8px 10px purple;
+  background: #174038;
+}
+.border {
+  height: 80px;
+  width: 20%;
+  border-radius: 10px;
+  padding: 50px;
+  background: #324F17;
+  border-style: ridge;
+  border: dashed cyan;
+}
+.margin {
+  height: 80px;
+  width: 150px;
+  border-radius: 10px;
+  padding: 50px;
+  background: #83F52C;
+  border-style: ridge;
+  border: dotted gray;
+  margin-left: 300px;
+}
